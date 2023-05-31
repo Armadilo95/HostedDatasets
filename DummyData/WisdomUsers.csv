@@ -1,0 +1,10 @@
+EntityID,EntityType,Entity_Name,Entity_FirstName,Entity_MiddleName,Entity_LastName,CompanyName,ContactNo,Location,Gender,Industry Affiliation
+SCE45,Startup,,Anthony,Rebecca,Campbell,LaunchHive,2020827268,Uusima,M,FinTech
+SCE48,Startup,,James,Natalie,Durham,DurhamDigital,2206810786,Satakunta,M,Healthcare
+SCE37,Startup,,Anthony,Tammy,Jackson,GrowthMinds & Co.,9630130387,Uusima,M,Retail
+SCE47,Startup,,Leslie,Peter,Booker,CatalystIQ,2633143303,lapland,F,Healthcare
+SCE53,Startup,,Jason,Matthew,Mack,Mack & Chesse,2379393823,Satakunta,M,Healthcare
+SCE35,Startup,,Stephanie,John,Solomon,SparkFuse Ltd,9157916157,Uusima,F,FinTech
+SCE36,Startup,,Hannah,Eric,Mendez,Ignition Labs,1726739387,Uusima,F,FinTech
+SCE43,Startup,,Michael,Glenn,Miller,FlourishX,2301409861,Uusima,M,FinTech
+SCE51,Startup,,Scott,Tammy,Smith,NextLeaps,7475907256,Pirkanmaa,M,FinTech

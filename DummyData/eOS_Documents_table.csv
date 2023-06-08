@@ -1,0 +1,31 @@
+Meeting ID,Document Name,Document Type,File Path
+MEET001,Meeting Agenda,PDF,/home/user/Documents/file1.txt
+MEET002,Client Proposal,Word document,/home/user/Documents/presentation.pptx
+MEET003,Workshop Handouts,PowerPoint presentation,/home/user/Documents/reports/report.docx
+MEET004,Networking Contact List,Excel spreadsheet,/home/user/Documents/images/pic1.jpg
+MEET005,Investor Presentation,Business plan,/home/user/Documents/spreadsheets/data.xlsx
+MEET006,Sales Report,Invoice,/home/user/Documents/audio/recording.mp3
+MEET007,Training Manual,PDF,/home/user/Documents/videos/video1.mp4
+MEET008,Product Brochure,Word document,/home/user/Documents/files/file2.txt
+MEET009,Brainstorming Notes,PowerPoint presentation,/home/user/Documents/presentations/presentation2.pptx
+MEET010,Pitch Deck,Excel spreadsheet,/home/user/Documents/reports/report2.docx
+MEET011,Mentorship Plan,Business plan,/home/user/Documents/images/pic2.jpg
+MEET012,Project Charter,Invoice,/home/user/Documents/spreadsheets/data2.xlsx
+MEET013,Interview Questions,PDF,/home/user/Documents/audio/recording2.mp3
+MEET014,Advisory Board Recommendations,Word document,/home/user/Documents/videos/video2.mp4
+MEET015,Strategic Plan Outline,PowerPoint presentation,/home/user/Documents/files/file3.txt
+MEET016,Meeting Minutes,Excel spreadsheet,/home/user/Documents/presentations/presentation3.pptx
+MEET017,Workshop Evaluation Form,Business plan,/home/user/Documents/reports/report3.docx
+MEET018,Training Assessment Results,Invoice,/home/user/Documents/images/pic3.jpg
+MEET019,Investor Term Sheet,PDF,/home/user/Documents/spreadsheets/data3.xlsx
+MEET020,Sales Forecast,Word document,/home/user/Documents/audio/recording3.mp3
+MEET021,Networking Event Summary,PowerPoint presentation,/home/user/Documents/videos/video3.mp4
+MEET022,Brainstorming Ideas List,Excel spreadsheet,/home/user/Documents/files/file4.txt
+MEET023,Pitch Feedback Analysis,Business plan,/home/user/Documents/presentations/presentation4.pptx
+MEET024,Mentoring Session Log,Invoice,/home/user/Documents/reports/report4.docx
+MEET025,Project Scope Document,PDF,/home/user/Documents/images/pic4.jpg
+MEET026,Interview Assessment Rubric,Word document,/home/user/Documents/spreadsheets/data4.xlsx
+MEET027,Advisory Board Action Items,PowerPoint presentation,/home/user/Documents/audio/recording4.mp3
+MEET028,Strategic Plan Progress Report,Excel spreadsheet,/home/user/Documents/videos/video4.mp4
+MEET029,Client Meeting Summary,Business plan,/home/user/Documents/files/file5.txt
+MEET030,Workshop Presentation Slides,Invoice,/home/user/Documents/presentations/presentation5.pptx
